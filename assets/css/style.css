@@ -22,4 +22,7 @@ div>ul>li{
 .star-logo>span{
     border: 2px solid white;
 }
+.star-logo.due>span{
+    border: 2px solid #2C3E50;
+}
  
