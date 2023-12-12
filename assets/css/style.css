@@ -25,4 +25,7 @@ div>ul>li{
 .star-logo.due>span{
     border: 2px solid #2C3E50;
 }
- 
+section.three{
+    background-color: #1abc9c;
+    color: white;
+}
