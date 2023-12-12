@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* border: 1px solid red; */
+    border: 1px solid red;
 }
 header{
     background-color: #2C3E50;
@@ -32,4 +32,12 @@ section.three{
 .send{
     background-color: #1abc9c;
     color: white;
+}
+section.five{
+    background-color: #3a546d;
+    color: white;
+    font-size: smaller;
+}
+p>span{
+    color:#1abc9c;
 }
