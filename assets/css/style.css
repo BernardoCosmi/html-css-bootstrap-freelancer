@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .nav-menù{
     background-color: #2C3E50;
@@ -26,6 +26,10 @@ section.three{
     color: white;
 }
 .send{
+    background-color: #1abc9c;
+    color: white;
+}
+.btn-color{
     background-color: #1abc9c;
     color: white;
 }
