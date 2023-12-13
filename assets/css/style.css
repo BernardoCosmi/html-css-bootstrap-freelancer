@@ -2,13 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 1px solid red;
 }
-header{
+.nav-menù{
     background-color: #2C3E50;
-}
-header>div>div{
-    color: white;
-    font-weight: bolder;
 }
 div>ul>li{
     list-style-type: none;
